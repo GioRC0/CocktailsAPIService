@@ -1,4 +1,4 @@
-import {Component, Input, OnInit} from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {CocktailService} from "../../services/cocktail-service.service";
 import {Cocktail} from "../../model/cocktail.entity";
 
